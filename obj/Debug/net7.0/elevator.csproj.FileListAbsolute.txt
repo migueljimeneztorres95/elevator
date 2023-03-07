@@ -1,0 +1,15 @@
+C:\Users\Jack\OneDrive\Documents\SnowCap\elevator\bin\Debug\net7.0\elevator.exe
+C:\Users\Jack\OneDrive\Documents\SnowCap\elevator\bin\Debug\net7.0\elevator.deps.json
+C:\Users\Jack\OneDrive\Documents\SnowCap\elevator\bin\Debug\net7.0\elevator.runtimeconfig.json
+C:\Users\Jack\OneDrive\Documents\SnowCap\elevator\bin\Debug\net7.0\elevator.dll
+C:\Users\Jack\OneDrive\Documents\SnowCap\elevator\bin\Debug\net7.0\elevator.pdb
+C:\Users\Jack\OneDrive\Documents\SnowCap\elevator\obj\Debug\net7.0\elevator.csproj.AssemblyReference.cache
+C:\Users\Jack\OneDrive\Documents\SnowCap\elevator\obj\Debug\net7.0\elevator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jack\OneDrive\Documents\SnowCap\elevator\obj\Debug\net7.0\elevator.AssemblyInfoInputs.cache
+C:\Users\Jack\OneDrive\Documents\SnowCap\elevator\obj\Debug\net7.0\elevator.AssemblyInfo.cs
+C:\Users\Jack\OneDrive\Documents\SnowCap\elevator\obj\Debug\net7.0\elevator.csproj.CoreCompileInputs.cache
+C:\Users\Jack\OneDrive\Documents\SnowCap\elevator\obj\Debug\net7.0\elevator.dll
+C:\Users\Jack\OneDrive\Documents\SnowCap\elevator\obj\Debug\net7.0\refint\elevator.dll
+C:\Users\Jack\OneDrive\Documents\SnowCap\elevator\obj\Debug\net7.0\elevator.pdb
+C:\Users\Jack\OneDrive\Documents\SnowCap\elevator\obj\Debug\net7.0\elevator.genruntimeconfig.cache
+C:\Users\Jack\OneDrive\Documents\SnowCap\elevator\obj\Debug\net7.0\ref\elevator.dll
